@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "description": "Publish Markdown articles to a WeChat Official Account draft",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "marked": "^16.3.0",
+    "mathjax-full": "^3.2.1",
+    "yargs": "^18.0.0"
+  },
+  "engines": {
+    "node": ">=20.20.1"
+  }
+}
